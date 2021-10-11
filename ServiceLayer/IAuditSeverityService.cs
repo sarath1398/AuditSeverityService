@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using AuditSeverityMicroService.Models;
+using AuditSeverityMicroService.RepositoryLayer;
 
 namespace AuditSeverityMicroService.ServiceLayer
 {
@@ -10,7 +11,9 @@ namespace AuditSeverityMicroService.ServiceLayer
     {
         public string GenerateAuditId();
         public List<string> AuditResponseCalculation(int NoCount, string AuditType, List<AuditBenchmarkClass> benchMarkList);
-        public Task<bool> UpdateRepo(AuditRequest auditRequest, AuditResponse auditResponse, int projectId);
+        public void CreateRepo(AuditRequest auditRequest, AuditResponse auditResponse, int projectId);
+        public int GetProjectIdCount(int projectId);
+        public AuditResponse ReadAuditResponse();// int projectId);
 
     }
 }

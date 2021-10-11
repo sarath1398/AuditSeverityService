@@ -105,3 +105,1454 @@ INFO  10:46:36 Content root path: F:\MFPE\AuditSeverityMicroService
 INFO  10:46:52 Project Execution status invoked
 INFO  10:46:52 2
 INFO  10:46:54 Audit Response calculation successful
+INFO  11:46:32 Application started. Press Ctrl+C to shut down.
+INFO  11:46:32 Application started. Press Ctrl+C to shut down.
+INFO  11:46:32 Hosting environment: Development
+INFO  11:46:32 Hosting environment: Development
+INFO  11:46:32 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  11:46:32 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  11:46:39 Project Execution status invoked
+INFO  11:46:40 2
+DEBUG 11:46:42 Error occureed while updating database
+INFO  11:57:02 Application started. Press Ctrl+C to shut down.
+INFO  11:57:02 Application started. Press Ctrl+C to shut down.
+INFO  11:57:02 Hosting environment: Development
+INFO  11:57:02 Hosting environment: Development
+INFO  11:57:02 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  11:57:02 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  11:57:15 Project Execution status invoked
+INFO  11:57:16 2
+INFO  11:57:18 Audit Response calculation successful
+INFO  11:59:36 Project Execution status invoked
+INFO  11:59:36 2
+DEBUG 11:59:36 Error occureed while updating database
+INFO  11:59:50 Project Execution status invoked
+INFO  11:59:51 2
+DEBUG 11:59:51 Error occureed while updating database
+INFO  11:59:53 Project Execution status invoked
+INFO  11:59:53 2
+DEBUG 11:59:53 Error occureed while updating database
+INFO  12:00:00 Project Execution status invoked
+INFO  12:00:00 2
+DEBUG 12:00:00 Error occureed while updating database
+INFO  12:00:29 Project Execution status invoked
+INFO  12:00:29 2
+DEBUG 12:00:29 Error occureed while updating database
+INFO  12:00:44 Project Execution status invoked
+INFO  12:00:44 2
+DEBUG 12:00:44 Error occureed while updating database
+INFO  12:02:09 Application started. Press Ctrl+C to shut down.
+INFO  12:02:09 Application started. Press Ctrl+C to shut down.
+INFO  12:02:09 Hosting environment: Development
+INFO  12:02:09 Hosting environment: Development
+INFO  12:02:09 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  12:02:09 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  12:02:18 Project Execution status invoked
+INFO  12:02:19 2
+INFO  12:02:21 Audit Response calculation successful
+INFO  12:02:28 Project Execution status invoked
+INFO  12:02:28 2
+DEBUG 12:02:28 Error occureed while updating database
+INFO  12:03:06 Project Execution status invoked
+INFO  12:03:06 2
+DEBUG 12:03:06 Error occureed while updating database
+INFO  12:03:07 Project Execution status invoked
+INFO  12:03:07 2
+DEBUG 12:03:07 Error occureed while updating database
+INFO  12:05:01 Application started. Press Ctrl+C to shut down.
+INFO  12:05:01 Application started. Press Ctrl+C to shut down.
+INFO  12:05:01 Hosting environment: Development
+INFO  12:05:01 Hosting environment: Development
+INFO  12:05:01 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  12:05:01 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  12:05:11 Project Execution status invoked
+INFO  12:05:11 2
+INFO  12:05:13 Audit Response calculation successful
+INFO  12:05:20 Project Execution status invoked
+INFO  12:05:20 2
+DEBUG 12:05:20 Error occureed while updating database
+INFO  12:09:31 Application started. Press Ctrl+C to shut down.
+INFO  12:09:31 Application started. Press Ctrl+C to shut down.
+INFO  12:09:31 Hosting environment: Development
+INFO  12:09:31 Hosting environment: Development
+INFO  12:09:31 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  12:09:31 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  12:12:35 Project Execution status invoked
+INFO  12:12:36 2
+INFO  12:12:37 Audit Response calculation successful
+INFO  12:52:26 Application started. Press Ctrl+C to shut down.
+INFO  12:52:26 Application started. Press Ctrl+C to shut down.
+INFO  12:52:26 Hosting environment: Development
+INFO  12:52:26 Hosting environment: Development
+INFO  12:52:26 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  12:52:26 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  12:52:33 Project Execution status invoked
+INFO  12:52:34 2
+ERROR 12:52:34 Object reference not set to an instance of an object.
+INFO  12:54:02 Application started. Press Ctrl+C to shut down.
+INFO  12:54:02 Application started. Press Ctrl+C to shut down.
+INFO  12:54:02 Hosting environment: Development
+INFO  12:54:02 Hosting environment: Development
+INFO  12:54:02 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  12:54:02 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  12:54:10 Project Execution status invoked
+INFO  12:54:12 Bechmark api is called
+INFO  12:58:13 Application started. Press Ctrl+C to shut down.
+INFO  12:58:13 Application started. Press Ctrl+C to shut down.
+INFO  12:58:13 Hosting environment: Development
+INFO  12:58:13 Hosting environment: Development
+INFO  12:58:13 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  12:58:13 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  12:58:20 Project Execution status invoked
+INFO  12:58:22 Bechmark api is called
+INFO  12:59:12 Application started. Press Ctrl+C to shut down.
+INFO  12:59:12 Application started. Press Ctrl+C to shut down.
+INFO  12:59:12 Hosting environment: Development
+INFO  12:59:12 Hosting environment: Development
+INFO  12:59:12 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  12:59:12 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  12:59:18 Project Execution status invoked
+INFO  12:59:20 Bechmark api is called
+DEBUG 01:00:10 Existing audit response is read
+ERROR 01:00:23 Cannot access a disposed context instance. A common cause of this error is disposing a context instance that was resolved from dependency injection and then later trying to use the same context instance elsewhere in your application. This may occur if you are calling 'Dispose' on the context instance, or wrapping it in a using statement. If you are using dependency injection, you should let the dependency injection container take care of disposing context instances.
+Object name: 'AuditManagementSystemContext'.
+INFO  01:01:33 Application started. Press Ctrl+C to shut down.
+INFO  01:01:33 Application started. Press Ctrl+C to shut down.
+INFO  01:01:33 Hosting environment: Development
+INFO  01:01:33 Hosting environment: Development
+INFO  01:01:33 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  01:01:33 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  01:01:40 Project Execution status invoked
+INFO  01:01:41 Bechmark api is called
+DEBUG 01:01:45 Existing audit response is read
+INFO  01:01:58 Project Execution status invoked
+INFO  01:01:58 Bechmark api is called
+DEBUG 01:01:58 Existing audit response is read
+INFO  01:02:22 Project Execution status invoked
+INFO  01:02:22 Bechmark api is called
+DEBUG 01:02:22 Existing audit response is read
+INFO  01:51:38 Project Execution status invoked
+INFO  01:51:38 Bechmark api is called
+DEBUG 01:51:38 Existing audit response is read
+INFO  01:51:43 Project Execution status invoked
+INFO  01:51:43 Bechmark api is called
+DEBUG 01:51:43 Existing audit response is read
+INFO  02:01:29 Project Execution status invoked
+INFO  02:01:30 Bechmark api is called
+DEBUG 02:01:30 Existing audit response is read
+INFO  02:39:48 Application started. Press Ctrl+C to shut down.
+INFO  02:39:48 Application started. Press Ctrl+C to shut down.
+INFO  02:39:48 Hosting environment: Development
+INFO  02:39:48 Hosting environment: Development
+INFO  02:39:48 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  02:39:48 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  02:39:59 Project Execution status invoked
+INFO  02:39:59 Bechmark api is called
+DEBUG 02:40:01 Existing audit response is read
+INFO  02:40:19 Project Execution status invoked
+INFO  02:40:19 Bechmark api is called
+DEBUG 02:40:19 Existing audit response is read
+INFO  02:40:59 Project Execution status invoked
+INFO  02:40:59 Bechmark api is called
+DEBUG 02:40:59 Existing audit response is read
+INFO  02:41:07 Project Execution status invoked
+INFO  02:41:07 Bechmark api is called
+DEBUG 02:41:07 Existing audit response is read
+INFO  02:41:08 Project Execution status invoked
+INFO  02:41:08 Bechmark api is called
+DEBUG 02:41:08 Existing audit response is read
+INFO  02:41:10 Project Execution status invoked
+INFO  02:41:10 Bechmark api is called
+DEBUG 02:41:10 Existing audit response is read
+INFO  02:41:20 Project Execution status invoked
+INFO  02:41:20 Bechmark api is called
+DEBUG 02:41:20 Existing audit response is read
+INFO  02:41:26 Project Execution status invoked
+INFO  02:41:26 Bechmark api is called
+DEBUG 02:41:26 Existing audit response is read
+INFO  02:41:30 Project Execution status invoked
+INFO  02:41:30 Bechmark api is called
+DEBUG 02:41:30 Existing audit response is read
+INFO  02:41:37 Project Execution status invoked
+INFO  02:41:37 Bechmark api is called
+DEBUG 02:41:37 Existing audit response is read
+INFO  02:41:46 Project Execution status invoked
+INFO  02:41:46 Bechmark api is called
+DEBUG 02:41:46 Existing audit response is read
+INFO  02:41:52 Project Execution status invoked
+INFO  02:41:52 Bechmark api is called
+DEBUG 02:41:52 Existing audit response is read
+INFO  02:43:23 Project Execution status invoked
+INFO  02:43:23 Bechmark api is called
+DEBUG 02:43:23 Existing audit response is read
+INFO  02:43:55 Project Execution status invoked
+INFO  02:43:55 Bechmark api is called
+DEBUG 02:43:55 Existing audit response is read
+INFO  02:44:15 Project Execution status invoked
+INFO  02:44:15 Bechmark api is called
+DEBUG 02:44:15 Existing audit response is read
+INFO  02:44:23 Project Execution status invoked
+INFO  02:44:23 Bechmark api is called
+DEBUG 02:44:23 Existing audit response is read
+INFO  02:45:33 Project Execution status invoked
+INFO  02:45:33 Bechmark api is called
+DEBUG 02:45:33 Existing audit response is read
+INFO  02:46:14 Project Execution status invoked
+INFO  02:46:14 Bechmark api is called
+DEBUG 02:46:14 Existing audit response is read
+INFO  02:51:22 Project Execution status invoked
+INFO  02:51:22 Bechmark api is called
+DEBUG 02:51:22 Existing audit response is read
+INFO  02:53:47 Project Execution status invoked
+INFO  02:53:47 Bechmark api is called
+DEBUG 02:53:47 Existing audit response is read
+INFO  02:53:50 Project Execution status invoked
+INFO  02:53:50 Bechmark api is called
+DEBUG 02:53:50 Existing audit response is read
+INFO  02:54:03 Project Execution status invoked
+INFO  02:54:03 Bechmark api is called
+DEBUG 02:54:03 Existing audit response is read
+INFO  02:54:12 Project Execution status invoked
+INFO  02:54:12 Bechmark api is called
+DEBUG 02:54:12 Existing audit response is read
+INFO  02:56:34 Project Execution status invoked
+INFO  02:56:34 Bechmark api is called
+DEBUG 02:56:34 Existing audit response is read
+INFO  02:59:18 Project Execution status invoked
+INFO  02:59:18 Bechmark api is called
+DEBUG 02:59:18 Existing audit response is read
+INFO  02:59:34 Project Execution status invoked
+INFO  02:59:34 Bechmark api is called
+DEBUG 02:59:34 Existing audit response is read
+INFO  02:59:39 Project Execution status invoked
+INFO  02:59:39 Bechmark api is called
+DEBUG 02:59:39 Existing audit response is read
+INFO  02:59:42 Project Execution status invoked
+INFO  02:59:42 Bechmark api is called
+DEBUG 02:59:42 Existing audit response is read
+INFO  03:00:39 Project Execution status invoked
+INFO  03:00:39 Bechmark api is called
+DEBUG 03:00:39 Existing audit response is read
+INFO  03:00:46 Project Execution status invoked
+INFO  03:00:46 Bechmark api is called
+DEBUG 03:00:46 Existing audit response is read
+INFO  03:01:56 Project Execution status invoked
+INFO  03:01:56 Bechmark api is called
+DEBUG 03:01:56 Existing audit response is read
+INFO  03:01:59 Project Execution status invoked
+INFO  03:01:59 Bechmark api is called
+DEBUG 03:01:59 Existing audit response is read
+INFO  03:41:58 Project Execution status invoked
+INFO  03:41:58 Bechmark api is called
+DEBUG 03:41:58 Existing audit response is read
+INFO  03:42:07 Project Execution status invoked
+INFO  03:42:07 Bechmark api is called
+DEBUG 03:42:07 Existing audit response is read
+INFO  03:42:10 Project Execution status invoked
+INFO  03:42:10 Bechmark api is called
+DEBUG 03:42:10 Existing audit response is read
+INFO  03:43:29 Project Execution status invoked
+INFO  03:43:29 Bechmark api is called
+DEBUG 03:43:29 Existing audit response is read
+INFO  03:44:10 Project Execution status invoked
+INFO  03:44:10 Bechmark api is called
+DEBUG 03:44:10 Existing audit response is read
+INFO  03:44:38 Project Execution status invoked
+INFO  03:44:38 Bechmark api is called
+DEBUG 03:44:38 Existing audit response is read
+INFO  03:44:49 Project Execution status invoked
+INFO  03:44:49 Bechmark api is called
+DEBUG 03:44:49 Existing audit response is read
+INFO  03:45:00 Project Execution status invoked
+INFO  03:45:00 Bechmark api is called
+DEBUG 03:45:00 Existing audit response is read
+INFO  03:45:40 Project Execution status invoked
+INFO  03:45:40 Bechmark api is called
+DEBUG 03:45:40 Existing audit response is read
+INFO  03:45:53 Project Execution status invoked
+INFO  03:45:53 Bechmark api is called
+DEBUG 03:45:53 Existing audit response is read
+INFO  03:47:26 Project Execution status invoked
+INFO  03:47:26 Bechmark api is called
+DEBUG 03:47:26 Existing audit response is read
+INFO  03:48:39 Project Execution status invoked
+INFO  03:48:39 Bechmark api is called
+DEBUG 03:48:39 Existing audit response is read
+INFO  03:48:42 Project Execution status invoked
+INFO  03:48:42 Bechmark api is called
+DEBUG 03:48:42 Existing audit response is read
+INFO  03:53:40 Project Execution status invoked
+INFO  03:53:41 Bechmark api is called
+DEBUG 03:53:41 Existing audit response is read
+INFO  03:53:42 Project Execution status invoked
+INFO  03:53:42 Bechmark api is called
+DEBUG 03:53:42 Existing audit response is read
+INFO  03:55:51 Application started. Press Ctrl+C to shut down.
+INFO  03:55:51 Application started. Press Ctrl+C to shut down.
+INFO  03:55:51 Hosting environment: Development
+INFO  03:55:51 Hosting environment: Development
+INFO  03:55:51 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  03:55:51 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  04:06:18 Application started. Press Ctrl+C to shut down.
+INFO  04:06:18 Application started. Press Ctrl+C to shut down.
+INFO  04:06:18 Hosting environment: Development
+INFO  04:06:18 Hosting environment: Development
+INFO  04:06:18 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  04:06:18 Content root path: F:\MFPE\AuditSeverityMicroService
+ERROR 04:07:11 Internal server Error
+INFO  04:39:50 Application started. Press Ctrl+C to shut down.
+INFO  04:39:50 Application started. Press Ctrl+C to shut down.
+INFO  04:39:50 Hosting environment: Development
+INFO  04:39:50 Hosting environment: Development
+INFO  04:39:50 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  04:39:50 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  04:39:54 Project Execution status invoked
+INFO  04:39:55 Bechmark api is called
+DEBUG 04:39:56 Existing audit response is read
+INFO  04:47:16 Project Execution status invoked
+INFO  04:47:16 Bechmark api is called
+DEBUG 04:47:16 Existing audit response is read
+INFO  05:07:06 Application started. Press Ctrl+C to shut down.
+INFO  05:07:06 Application started. Press Ctrl+C to shut down.
+INFO  05:07:06 Hosting environment: Development
+INFO  05:07:06 Hosting environment: Development
+INFO  05:07:06 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  05:07:06 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  05:07:11 Project Execution status invoked
+INFO  05:07:11 Bechmark api is called
+DEBUG 05:07:13 Existing audit response is read
+INFO  05:07:22 Project Execution status invoked
+INFO  05:07:22 Bechmark api is called
+DEBUG 05:07:22 Existing audit response is read
+INFO  05:09:59 Project Execution status invoked
+INFO  05:09:59 Bechmark api is called
+DEBUG 05:09:59 Existing audit response is read
+INFO  05:09:59 Project Execution status invoked
+INFO  05:09:59 Bechmark api is called
+DEBUG 05:09:59 Existing audit response is read
+INFO  05:10:04 Project Execution status invoked
+INFO  05:10:04 Bechmark api is called
+DEBUG 05:10:04 Existing audit response is read
+INFO  05:10:04 Project Execution status invoked
+INFO  05:10:04 Bechmark api is called
+DEBUG 05:10:04 Existing audit response is read
+INFO  05:10:19 Project Execution status invoked
+INFO  05:10:20 Bechmark api is called
+DEBUG 05:10:20 Existing audit response is read
+INFO  05:10:20 Project Execution status invoked
+INFO  05:10:20 Bechmark api is called
+DEBUG 05:10:20 Existing audit response is read
+INFO  05:10:48 Project Execution status invoked
+INFO  05:10:48 Bechmark api is called
+DEBUG 05:10:48 Existing audit response is read
+INFO  05:10:48 Project Execution status invoked
+INFO  05:10:48 Bechmark api is called
+DEBUG 05:10:48 Existing audit response is read
+INFO  05:12:09 Project Execution status invoked
+INFO  05:12:09 Bechmark api is called
+DEBUG 05:12:09 Existing audit response is read
+INFO  05:12:09 Project Execution status invoked
+INFO  05:12:09 Bechmark api is called
+DEBUG 05:12:09 Existing audit response is read
+INFO  05:12:49 Application started. Press Ctrl+C to shut down.
+INFO  05:12:49 Application started. Press Ctrl+C to shut down.
+INFO  05:12:49 Hosting environment: Development
+INFO  05:12:49 Hosting environment: Development
+INFO  05:12:49 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  05:12:49 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  05:54:56 Application started. Press Ctrl+C to shut down.
+INFO  05:54:56 Application started. Press Ctrl+C to shut down.
+INFO  05:54:56 Hosting environment: Development
+INFO  05:54:56 Hosting environment: Development
+INFO  05:54:56 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  05:54:56 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  05:55:05 Project Execution status invoked
+INFO  05:55:05 Bechmark api is called
+DEBUG 05:55:08 Existing audit response is read
+INFO  05:55:20 Project Execution status invoked
+INFO  05:55:20 Bechmark api is called
+DEBUG 05:55:20 Existing audit response is read
+INFO  05:56:55 Application started. Press Ctrl+C to shut down.
+INFO  05:56:55 Application started. Press Ctrl+C to shut down.
+INFO  05:56:55 Hosting environment: Development
+INFO  05:56:55 Hosting environment: Development
+INFO  05:56:55 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  05:56:55 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  05:57:32 Project Execution status invoked
+INFO  05:57:32 Bechmark api is called
+DEBUG 05:57:34 Existing audit response is read
+INFO  05:58:53 Application started. Press Ctrl+C to shut down.
+INFO  05:58:53 Application started. Press Ctrl+C to shut down.
+INFO  05:58:53 Hosting environment: Development
+INFO  05:58:53 Hosting environment: Development
+INFO  05:58:53 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  05:58:53 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  05:58:59 Project Execution status invoked
+INFO  05:58:59 Bechmark api is called
+DEBUG 05:59:01 Existing audit response is read
+INFO  05:59:46 Project Execution status invoked
+INFO  05:59:46 Bechmark api is called
+DEBUG 05:59:46 Existing audit response is read
+INFO  05:59:46 Project Execution status invoked
+INFO  05:59:46 Bechmark api is called
+DEBUG 05:59:46 Existing audit response is read
+INFO  05:59:48 Project Execution status invoked
+INFO  05:59:48 Bechmark api is called
+DEBUG 05:59:48 Existing audit response is read
+INFO  05:59:48 Project Execution status invoked
+INFO  05:59:48 Bechmark api is called
+DEBUG 05:59:48 Existing audit response is read
+INFO  06:01:11 Project Execution status invoked
+INFO  06:01:12 Bechmark api is called
+DEBUG 06:01:12 Existing audit response is read
+INFO  06:01:12 Project Execution status invoked
+INFO  06:01:12 Bechmark api is called
+DEBUG 06:01:12 Existing audit response is read
+INFO  06:01:16 Project Execution status invoked
+INFO  06:01:16 Bechmark api is called
+DEBUG 06:01:16 Existing audit response is read
+INFO  06:01:16 Project Execution status invoked
+INFO  06:01:16 Bechmark api is called
+DEBUG 06:01:16 Existing audit response is read
+INFO  06:01:23 Project Execution status invoked
+INFO  06:01:23 Bechmark api is called
+DEBUG 06:01:23 Existing audit response is read
+INFO  06:01:23 Project Execution status invoked
+INFO  06:01:23 Bechmark api is called
+DEBUG 06:01:23 Existing audit response is read
+INFO  06:06:15 Project Execution status invoked
+INFO  06:06:15 Bechmark api is called
+DEBUG 06:06:15 Existing audit response is read
+INFO  06:10:34 Application started. Press Ctrl+C to shut down.
+INFO  06:10:34 Application started. Press Ctrl+C to shut down.
+INFO  06:10:34 Hosting environment: Development
+INFO  06:10:34 Hosting environment: Development
+INFO  06:10:34 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  06:10:34 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  06:10:34 6
+INFO  06:10:56 Application started. Press Ctrl+C to shut down.
+INFO  06:10:56 Application started. Press Ctrl+C to shut down.
+INFO  06:10:56 Hosting environment: Development
+INFO  06:10:56 Hosting environment: Development
+INFO  06:10:56 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  06:10:56 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  06:11:33 6
+INFO  06:12:41 Application started. Press Ctrl+C to shut down.
+INFO  06:12:41 Application started. Press Ctrl+C to shut down.
+INFO  06:12:41 Hosting environment: Development
+INFO  06:12:41 Hosting environment: Development
+INFO  06:12:41 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  06:12:41 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  06:12:48 AuditSeverityMicroService.Models.AuditRequest
+INFO  06:13:40 Application started. Press Ctrl+C to shut down.
+INFO  06:13:40 Application started. Press Ctrl+C to shut down.
+INFO  06:13:40 Hosting environment: Development
+INFO  06:13:40 Hosting environment: Development
+INFO  06:13:40 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  06:13:40 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  06:14:05 Medical
+INFO  06:14:49 Application started. Press Ctrl+C to shut down.
+INFO  06:14:49 Application started. Press Ctrl+C to shut down.
+INFO  06:14:49 Hosting environment: Development
+INFO  06:14:49 Hosting environment: Development
+INFO  06:14:49 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  06:14:49 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  06:15:29 Project Execution status invoked
+ERROR 06:15:34 An unhandled exception has occurred while executing the request.
+System.Net.Http.HttpRequestException: No connection could be made because the target machine actively refused it. (localhost:44354)
+ ---> System.Net.Sockets.SocketException (10061): No connection could be made because the target machine actively refused it.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|283_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.DefaultConnectAsync(SocketsHttpConnectionContext context, CancellationToken cancellationToken)
+   at System.Net.Http.ConnectHelper.ConnectAsync(Func`3 callback, DnsEndPoint endPoint, HttpRequestMessage requestMessage, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.ConnectHelper.ConnectAsync(Func`3 callback, DnsEndPoint endPoint, HttpRequestMessage requestMessage, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttpConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.SendAsyncCore(HttpRequestMessage request, HttpCompletionOption completionOption, Boolean async, Boolean emitTelemetryStartStop, CancellationToken cancellationToken)
+   at AuditSeverityMicroService.Controllers.AuditSeverityController.ProjectExecutionStatus() in F:\MFPE\AuditSeverityMicroService\Controllers\AuditSeverityController.cs:line 48
+   at lambda_method6(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Logged|12_1(ControllerActionInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 06:15:34 An unhandled exception has occurred while executing the request.
+System.Net.Http.HttpRequestException: No connection could be made because the target machine actively refused it. (localhost:44354)
+ ---> System.Net.Sockets.SocketException (10061): No connection could be made because the target machine actively refused it.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|283_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.DefaultConnectAsync(SocketsHttpConnectionContext context, CancellationToken cancellationToken)
+   at System.Net.Http.ConnectHelper.ConnectAsync(Func`3 callback, DnsEndPoint endPoint, HttpRequestMessage requestMessage, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.ConnectHelper.ConnectAsync(Func`3 callback, DnsEndPoint endPoint, HttpRequestMessage requestMessage, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttpConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.SendAsyncCore(HttpRequestMessage request, HttpCompletionOption completionOption, Boolean async, Boolean emitTelemetryStartStop, CancellationToken cancellationToken)
+   at AuditSeverityMicroService.Controllers.AuditSeverityController.ProjectExecutionStatus() in F:\MFPE\AuditSeverityMicroService\Controllers\AuditSeverityController.cs:line 48
+   at lambda_method6(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Logged|12_1(ControllerActionInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  06:16:06 Electrical
+INFO  06:16:39 Cs
+INFO  06:28:09 Application started. Press Ctrl+C to shut down.
+INFO  06:28:09 Application started. Press Ctrl+C to shut down.
+INFO  06:28:09 Hosting environment: Development
+INFO  06:28:09 Hosting environment: Development
+INFO  06:28:09 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  06:28:09 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  06:28:17 Project Execution status invoked
+ERROR 06:28:22 An unhandled exception has occurred while executing the request.
+System.Net.Http.HttpRequestException: No connection could be made because the target machine actively refused it. (localhost:44354)
+ ---> System.Net.Sockets.SocketException (10061): No connection could be made because the target machine actively refused it.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|283_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.DefaultConnectAsync(SocketsHttpConnectionContext context, CancellationToken cancellationToken)
+   at System.Net.Http.ConnectHelper.ConnectAsync(Func`3 callback, DnsEndPoint endPoint, HttpRequestMessage requestMessage, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.ConnectHelper.ConnectAsync(Func`3 callback, DnsEndPoint endPoint, HttpRequestMessage requestMessage, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttpConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.SendAsyncCore(HttpRequestMessage request, HttpCompletionOption completionOption, Boolean async, Boolean emitTelemetryStartStop, CancellationToken cancellationToken)
+   at AuditSeverityMicroService.Controllers.AuditSeverityController.ProjectExecutionStatus() in F:\MFPE\AuditSeverityMicroService\Controllers\AuditSeverityController.cs:line 48
+   at lambda_method6(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Logged|12_1(ControllerActionInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 06:28:22 An unhandled exception has occurred while executing the request.
+System.Net.Http.HttpRequestException: No connection could be made because the target machine actively refused it. (localhost:44354)
+ ---> System.Net.Sockets.SocketException (10061): No connection could be made because the target machine actively refused it.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|283_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.DefaultConnectAsync(SocketsHttpConnectionContext context, CancellationToken cancellationToken)
+   at System.Net.Http.ConnectHelper.ConnectAsync(Func`3 callback, DnsEndPoint endPoint, HttpRequestMessage requestMessage, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.ConnectHelper.ConnectAsync(Func`3 callback, DnsEndPoint endPoint, HttpRequestMessage requestMessage, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttpConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.SendAsyncCore(HttpRequestMessage request, HttpCompletionOption completionOption, Boolean async, Boolean emitTelemetryStartStop, CancellationToken cancellationToken)
+   at AuditSeverityMicroService.Controllers.AuditSeverityController.ProjectExecutionStatus() in F:\MFPE\AuditSeverityMicroService\Controllers\AuditSeverityController.cs:line 48
+   at lambda_method6(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Logged|12_1(ControllerActionInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  06:28:37 Army
+INFO  06:37:46 Application started. Press Ctrl+C to shut down.
+INFO  06:37:46 Application started. Press Ctrl+C to shut down.
+INFO  06:37:46 Hosting environment: Development
+INFO  06:37:46 Hosting environment: Development
+INFO  06:37:46 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  06:37:46 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  06:38:20 Project Execution status invoked
+ERROR 06:38:24 An unhandled exception has occurred while executing the request.
+System.Net.Http.HttpRequestException: No connection could be made because the target machine actively refused it. (localhost:44354)
+ ---> System.Net.Sockets.SocketException (10061): No connection could be made because the target machine actively refused it.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|283_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.DefaultConnectAsync(SocketsHttpConnectionContext context, CancellationToken cancellationToken)
+   at System.Net.Http.ConnectHelper.ConnectAsync(Func`3 callback, DnsEndPoint endPoint, HttpRequestMessage requestMessage, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.ConnectHelper.ConnectAsync(Func`3 callback, DnsEndPoint endPoint, HttpRequestMessage requestMessage, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttpConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.SendAsyncCore(HttpRequestMessage request, HttpCompletionOption completionOption, Boolean async, Boolean emitTelemetryStartStop, CancellationToken cancellationToken)
+   at AuditSeverityMicroService.Controllers.AuditSeverityController.ProjectExecutionStatus() in F:\MFPE\AuditSeverityMicroService\Controllers\AuditSeverityController.cs:line 51
+   at lambda_method6(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Logged|12_1(ControllerActionInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 06:38:24 An unhandled exception has occurred while executing the request.
+System.Net.Http.HttpRequestException: No connection could be made because the target machine actively refused it. (localhost:44354)
+ ---> System.Net.Sockets.SocketException (10061): No connection could be made because the target machine actively refused it.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|283_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.DefaultConnectAsync(SocketsHttpConnectionContext context, CancellationToken cancellationToken)
+   at System.Net.Http.ConnectHelper.ConnectAsync(Func`3 callback, DnsEndPoint endPoint, HttpRequestMessage requestMessage, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.ConnectHelper.ConnectAsync(Func`3 callback, DnsEndPoint endPoint, HttpRequestMessage requestMessage, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttpConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.SendAsyncCore(HttpRequestMessage request, HttpCompletionOption completionOption, Boolean async, Boolean emitTelemetryStartStop, CancellationToken cancellationToken)
+   at AuditSeverityMicroService.Controllers.AuditSeverityController.ProjectExecutionStatus() in F:\MFPE\AuditSeverityMicroService\Controllers\AuditSeverityController.cs:line 51
+   at lambda_method6(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Logged|12_1(ControllerActionInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  06:48:49 Application started. Press Ctrl+C to shut down.
+INFO  06:48:49 Application started. Press Ctrl+C to shut down.
+INFO  06:48:49 Hosting environment: Development
+INFO  06:48:49 Hosting environment: Development
+INFO  06:48:49 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  06:48:49 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  06:49:23 Project Execution status invoked
+INFO  07:08:42 Application started. Press Ctrl+C to shut down.
+INFO  07:08:42 Application started. Press Ctrl+C to shut down.
+INFO  07:08:42 Hosting environment: Development
+INFO  07:08:42 Hosting environment: Development
+INFO  07:08:42 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  07:08:42 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  07:09:47 Project Execution status invoked
+INFO  07:09:47 15
+INFO  07:09:47 15
+ERROR 07:09:47 An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at AuditSeverityMicroService.Controllers.AuditSeverityController.ProjectExecutionStatus() in F:\MFPE\AuditSeverityMicroService\Controllers\AuditSeverityController.cs:line 49
+   at lambda_method8(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 07:09:47 An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at AuditSeverityMicroService.Controllers.AuditSeverityController.ProjectExecutionStatus() in F:\MFPE\AuditSeverityMicroService\Controllers\AuditSeverityController.cs:line 49
+   at lambda_method8(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  07:09:47 Project Execution status invoked
+ERROR 07:09:47 An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at AuditSeverityMicroService.Controllers.AuditSeverityController.ProjectExecutionStatus() in F:\MFPE\AuditSeverityMicroService\Controllers\AuditSeverityController.cs:line 49
+   at lambda_method16(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 07:09:47 An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at AuditSeverityMicroService.Controllers.AuditSeverityController.ProjectExecutionStatus() in F:\MFPE\AuditSeverityMicroService\Controllers\AuditSeverityController.cs:line 49
+   at lambda_method16(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  07:09:47 15
+INFO  07:09:47 Project Execution status invoked
+ERROR 07:09:47 An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at AuditSeverityMicroService.Controllers.AuditSeverityController.ProjectExecutionStatus() in F:\MFPE\AuditSeverityMicroService\Controllers\AuditSeverityController.cs:line 49
+   at lambda_method16(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 07:09:47 An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at AuditSeverityMicroService.Controllers.AuditSeverityController.ProjectExecutionStatus() in F:\MFPE\AuditSeverityMicroService\Controllers\AuditSeverityController.cs:line 49
+   at lambda_method16(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  07:09:47 15
+INFO  07:09:47 Project Execution status invoked
+ERROR 07:09:47 An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at AuditSeverityMicroService.Controllers.AuditSeverityController.ProjectExecutionStatus() in F:\MFPE\AuditSeverityMicroService\Controllers\AuditSeverityController.cs:line 49
+   at lambda_method16(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 07:09:47 An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at AuditSeverityMicroService.Controllers.AuditSeverityController.ProjectExecutionStatus() in F:\MFPE\AuditSeverityMicroService\Controllers\AuditSeverityController.cs:line 49
+   at lambda_method16(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  07:09:48 15
+INFO  07:09:48 Project Execution status invoked
+ERROR 07:09:48 An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at AuditSeverityMicroService.Controllers.AuditSeverityController.ProjectExecutionStatus() in F:\MFPE\AuditSeverityMicroService\Controllers\AuditSeverityController.cs:line 49
+   at lambda_method16(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 07:09:48 An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at AuditSeverityMicroService.Controllers.AuditSeverityController.ProjectExecutionStatus() in F:\MFPE\AuditSeverityMicroService\Controllers\AuditSeverityController.cs:line 49
+   at lambda_method16(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  07:10:42 Project Execution status invoked
+ERROR 07:10:42 An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at AuditSeverityMicroService.Controllers.AuditSeverityController.ProjectExecutionStatus() in F:\MFPE\AuditSeverityMicroService\Controllers\AuditSeverityController.cs:line 49
+   at lambda_method16(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 07:10:42 An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at AuditSeverityMicroService.Controllers.AuditSeverityController.ProjectExecutionStatus() in F:\MFPE\AuditSeverityMicroService\Controllers\AuditSeverityController.cs:line 49
+   at lambda_method16(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  07:11:05 Application started. Press Ctrl+C to shut down.
+INFO  07:11:05 Application started. Press Ctrl+C to shut down.
+INFO  07:11:05 Hosting environment: Development
+INFO  07:11:05 Hosting environment: Development
+INFO  07:11:05 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  07:11:05 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  07:11:24 Project Execution status invoked
+INFO  07:26:02 Application started. Press Ctrl+C to shut down.
+INFO  07:26:02 Application started. Press Ctrl+C to shut down.
+INFO  07:26:02 Hosting environment: Development
+INFO  07:26:02 Hosting environment: Development
+INFO  07:26:02 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  07:26:02 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  07:26:19 2
+INFO  07:26:19 Bechmark api is called
+ERROR 07:26:19 An unhandled exception has occurred while executing the request.
+System.ArgumentNullException: Value cannot be null. (Parameter 'source')
+   at System.Linq.ThrowHelper.ThrowArgumentNullException(ExceptionArgument argument)
+   at System.Linq.Enumerable.Select[TSource,TResult](IEnumerable`1 source, Func`2 selector)
+   at AuditSeverityMicroService.Controllers.AuditSeverityController.Auditrequest(AuditRequest request) in F:\MFPE\AuditSeverityMicroService\Controllers\AuditSeverityController.cs:line 52
+   at lambda_method6(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 07:26:19 An unhandled exception has occurred while executing the request.
+System.ArgumentNullException: Value cannot be null. (Parameter 'source')
+   at System.Linq.ThrowHelper.ThrowArgumentNullException(ExceptionArgument argument)
+   at System.Linq.Enumerable.Select[TSource,TResult](IEnumerable`1 source, Func`2 selector)
+   at AuditSeverityMicroService.Controllers.AuditSeverityController.Auditrequest(AuditRequest request) in F:\MFPE\AuditSeverityMicroService\Controllers\AuditSeverityController.cs:line 52
+   at lambda_method6(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  07:29:45 25
+INFO  07:29:45 Bechmark api is called
+INFO  07:29:47 Audit Response calculation successful
+INFO  07:31:26 2
+INFO  07:31:26 Bechmark api is called
+ERROR 07:31:26 An unhandled exception has occurred while executing the request.
+System.ArgumentNullException: Value cannot be null. (Parameter 'source')
+   at System.Linq.ThrowHelper.ThrowArgumentNullException(ExceptionArgument argument)
+   at System.Linq.Enumerable.Select[TSource,TResult](IEnumerable`1 source, Func`2 selector)
+   at AuditSeverityMicroService.Controllers.AuditSeverityController.Auditrequest(AuditRequest request) in F:\MFPE\AuditSeverityMicroService\Controllers\AuditSeverityController.cs:line 52
+   at lambda_method6(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 07:31:26 An unhandled exception has occurred while executing the request.
+System.ArgumentNullException: Value cannot be null. (Parameter 'source')
+   at System.Linq.ThrowHelper.ThrowArgumentNullException(ExceptionArgument argument)
+   at System.Linq.Enumerable.Select[TSource,TResult](IEnumerable`1 source, Func`2 selector)
+   at AuditSeverityMicroService.Controllers.AuditSeverityController.Auditrequest(AuditRequest request) in F:\MFPE\AuditSeverityMicroService\Controllers\AuditSeverityController.cs:line 52
+   at lambda_method6(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  07:31:57 2
+INFO  07:31:57 Bechmark api is called
+ERROR 07:31:57 An unhandled exception has occurred while executing the request.
+System.ArgumentNullException: Value cannot be null. (Parameter 'source')
+   at System.Linq.ThrowHelper.ThrowArgumentNullException(ExceptionArgument argument)
+   at System.Linq.Enumerable.Select[TSource,TResult](IEnumerable`1 source, Func`2 selector)
+   at AuditSeverityMicroService.Controllers.AuditSeverityController.Auditrequest(AuditRequest request) in F:\MFPE\AuditSeverityMicroService\Controllers\AuditSeverityController.cs:line 52
+   at lambda_method6(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 07:31:57 An unhandled exception has occurred while executing the request.
+System.ArgumentNullException: Value cannot be null. (Parameter 'source')
+   at System.Linq.ThrowHelper.ThrowArgumentNullException(ExceptionArgument argument)
+   at System.Linq.Enumerable.Select[TSource,TResult](IEnumerable`1 source, Func`2 selector)
+   at AuditSeverityMicroService.Controllers.AuditSeverityController.Auditrequest(AuditRequest request) in F:\MFPE\AuditSeverityMicroService\Controllers\AuditSeverityController.cs:line 52
+   at lambda_method6(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  07:37:52 Application started. Press Ctrl+C to shut down.
+INFO  07:37:52 Application started. Press Ctrl+C to shut down.
+INFO  07:37:52 Hosting environment: Development
+INFO  07:37:52 Hosting environment: Development
+INFO  07:37:52 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  07:37:52 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  07:38:26 7
+INFO  07:38:27 Bechmark api is called
+ERROR 07:38:27 An unhandled exception has occurred while executing the request.
+System.ArgumentNullException: Value cannot be null. (Parameter 'source')
+   at System.Linq.ThrowHelper.ThrowArgumentNullException(ExceptionArgument argument)
+   at System.Linq.Enumerable.Select[TSource,TResult](IEnumerable`1 source, Func`2 selector)
+   at AuditSeverityMicroService.Controllers.AuditSeverityController.Auditrequest(AuditRequest request) in F:\MFPE\AuditSeverityMicroService\Controllers\AuditSeverityController.cs:line 52
+   at lambda_method6(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 07:38:27 An unhandled exception has occurred while executing the request.
+System.ArgumentNullException: Value cannot be null. (Parameter 'source')
+   at System.Linq.ThrowHelper.ThrowArgumentNullException(ExceptionArgument argument)
+   at System.Linq.Enumerable.Select[TSource,TResult](IEnumerable`1 source, Func`2 selector)
+   at AuditSeverityMicroService.Controllers.AuditSeverityController.Auditrequest(AuditRequest request) in F:\MFPE\AuditSeverityMicroService\Controllers\AuditSeverityController.cs:line 52
+   at lambda_method6(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  07:38:49 Application started. Press Ctrl+C to shut down.
+INFO  07:38:49 Application started. Press Ctrl+C to shut down.
+INFO  07:38:49 Hosting environment: Development
+INFO  07:38:49 Hosting environment: Development
+INFO  07:38:49 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  07:38:49 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  07:39:50 7
+INFO  07:39:54 Bechmark api is called
+ERROR 07:39:56 An unhandled exception has occurred while executing the request.
+System.ArgumentNullException: Value cannot be null. (Parameter 'source')
+   at System.Linq.ThrowHelper.ThrowArgumentNullException(ExceptionArgument argument)
+   at System.Linq.Enumerable.Select[TSource,TResult](IEnumerable`1 source, Func`2 selector)
+   at AuditSeverityMicroService.Controllers.AuditSeverityController.Auditrequest(AuditRequest request) in F:\MFPE\AuditSeverityMicroService\Controllers\AuditSeverityController.cs:line 52
+   at lambda_method6(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Logged|12_1(ControllerActionInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 07:39:56 An unhandled exception has occurred while executing the request.
+System.ArgumentNullException: Value cannot be null. (Parameter 'source')
+   at System.Linq.ThrowHelper.ThrowArgumentNullException(ExceptionArgument argument)
+   at System.Linq.Enumerable.Select[TSource,TResult](IEnumerable`1 source, Func`2 selector)
+   at AuditSeverityMicroService.Controllers.AuditSeverityController.Auditrequest(AuditRequest request) in F:\MFPE\AuditSeverityMicroService\Controllers\AuditSeverityController.cs:line 52
+   at lambda_method6(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Logged|12_1(ControllerActionInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  07:40:38 7
+INFO  07:40:44 Bechmark api is called
+ERROR 07:40:45 An unhandled exception has occurred while executing the request.
+System.ArgumentNullException: Value cannot be null. (Parameter 'source')
+   at System.Linq.ThrowHelper.ThrowArgumentNullException(ExceptionArgument argument)
+   at System.Linq.Enumerable.Select[TSource,TResult](IEnumerable`1 source, Func`2 selector)
+   at AuditSeverityMicroService.Controllers.AuditSeverityController.Auditrequest(AuditRequest request) in F:\MFPE\AuditSeverityMicroService\Controllers\AuditSeverityController.cs:line 52
+   at lambda_method6(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Logged|12_1(ControllerActionInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 07:40:45 An unhandled exception has occurred while executing the request.
+System.ArgumentNullException: Value cannot be null. (Parameter 'source')
+   at System.Linq.ThrowHelper.ThrowArgumentNullException(ExceptionArgument argument)
+   at System.Linq.Enumerable.Select[TSource,TResult](IEnumerable`1 source, Func`2 selector)
+   at AuditSeverityMicroService.Controllers.AuditSeverityController.Auditrequest(AuditRequest request) in F:\MFPE\AuditSeverityMicroService\Controllers\AuditSeverityController.cs:line 52
+   at lambda_method6(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Logged|12_1(ControllerActionInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  07:42:21 7
+INFO  07:44:41 Application started. Press Ctrl+C to shut down.
+INFO  07:44:41 Application started. Press Ctrl+C to shut down.
+INFO  07:44:41 Hosting environment: Development
+INFO  07:44:41 Hosting environment: Development
+INFO  07:44:41 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  07:44:41 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  07:44:57 7
+INFO  07:44:57 Bechmark api is called
+ERROR 07:44:57 An unhandled exception has occurred while executing the request.
+System.ArgumentNullException: Value cannot be null. (Parameter 'source')
+   at System.Linq.ThrowHelper.ThrowArgumentNullException(ExceptionArgument argument)
+   at System.Linq.Enumerable.Select[TSource,TResult](IEnumerable`1 source, Func`2 selector)
+   at AuditSeverityMicroService.Controllers.AuditSeverityController.Auditrequest(AuditRequest request) in F:\MFPE\AuditSeverityMicroService\Controllers\AuditSeverityController.cs:line 52
+   at lambda_method6(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 07:44:57 An unhandled exception has occurred while executing the request.
+System.ArgumentNullException: Value cannot be null. (Parameter 'source')
+   at System.Linq.ThrowHelper.ThrowArgumentNullException(ExceptionArgument argument)
+   at System.Linq.Enumerable.Select[TSource,TResult](IEnumerable`1 source, Func`2 selector)
+   at AuditSeverityMicroService.Controllers.AuditSeverityController.Auditrequest(AuditRequest request) in F:\MFPE\AuditSeverityMicroService\Controllers\AuditSeverityController.cs:line 52
+   at lambda_method6(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  07:45:16 Application started. Press Ctrl+C to shut down.
+INFO  07:45:16 Application started. Press Ctrl+C to shut down.
+INFO  07:45:16 Hosting environment: Development
+INFO  07:45:16 Hosting environment: Development
+INFO  07:45:16 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  07:45:16 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  07:45:47 7
+INFO  07:45:53 Bechmark api is called
+ERROR 07:45:54 An unhandled exception has occurred while executing the request.
+System.ArgumentNullException: Value cannot be null. (Parameter 'source')
+   at System.Linq.ThrowHelper.ThrowArgumentNullException(ExceptionArgument argument)
+   at System.Linq.Enumerable.Select[TSource,TResult](IEnumerable`1 source, Func`2 selector)
+   at AuditSeverityMicroService.Controllers.AuditSeverityController.Auditrequest(AuditRequest request) in F:\MFPE\AuditSeverityMicroService\Controllers\AuditSeverityController.cs:line 52
+   at lambda_method6(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Logged|12_1(ControllerActionInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 07:45:54 An unhandled exception has occurred while executing the request.
+System.ArgumentNullException: Value cannot be null. (Parameter 'source')
+   at System.Linq.ThrowHelper.ThrowArgumentNullException(ExceptionArgument argument)
+   at System.Linq.Enumerable.Select[TSource,TResult](IEnumerable`1 source, Func`2 selector)
+   at AuditSeverityMicroService.Controllers.AuditSeverityController.Auditrequest(AuditRequest request) in F:\MFPE\AuditSeverityMicroService\Controllers\AuditSeverityController.cs:line 52
+   at lambda_method6(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Logged|12_1(ControllerActionInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  07:48:23 Application started. Press Ctrl+C to shut down.
+INFO  07:48:23 Application started. Press Ctrl+C to shut down.
+INFO  07:48:23 Hosting environment: Development
+INFO  07:48:23 Hosting environment: Development
+INFO  07:48:23 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  07:48:23 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  07:52:07 Application started. Press Ctrl+C to shut down.
+INFO  07:52:07 Application started. Press Ctrl+C to shut down.
+INFO  07:52:07 Hosting environment: Development
+INFO  07:52:07 Hosting environment: Development
+INFO  07:52:07 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  07:52:07 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  07:52:41 17
+INFO  07:52:47 Bechmark api is called
+INFO  07:59:31 Application started. Press Ctrl+C to shut down.
+INFO  07:59:31 Application started. Press Ctrl+C to shut down.
+INFO  07:59:31 Hosting environment: Development
+INFO  07:59:31 Hosting environment: Development
+INFO  07:59:31 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  07:59:31 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  08:01:09 Application started. Press Ctrl+C to shut down.
+INFO  08:01:09 Application started. Press Ctrl+C to shut down.
+INFO  08:01:09 Hosting environment: Development
+INFO  08:01:09 Hosting environment: Development
+INFO  08:01:09 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  08:01:09 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  08:07:27 Application started. Press Ctrl+C to shut down.
+INFO  08:07:27 Application started. Press Ctrl+C to shut down.
+INFO  08:07:27 Hosting environment: Development
+INFO  08:07:27 Hosting environment: Development
+INFO  08:07:27 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  08:07:27 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  08:21:04 Application started. Press Ctrl+C to shut down.
+INFO  08:21:04 Application started. Press Ctrl+C to shut down.
+INFO  08:21:04 Hosting environment: Development
+INFO  08:21:04 Hosting environment: Development
+INFO  08:21:04 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  08:21:04 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  08:21:48 Application started. Press Ctrl+C to shut down.
+INFO  08:21:48 Application started. Press Ctrl+C to shut down.
+INFO  08:21:48 Hosting environment: Development
+INFO  08:21:48 Hosting environment: Development
+INFO  08:21:48 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  08:21:48 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  08:25:44 Application started. Press Ctrl+C to shut down.
+INFO  08:25:44 Application started. Press Ctrl+C to shut down.
+INFO  08:25:44 Hosting environment: Development
+INFO  08:25:44 Hosting environment: Development
+INFO  08:25:44 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  08:25:44 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  08:31:21 Application started. Press Ctrl+C to shut down.
+INFO  08:31:21 Application started. Press Ctrl+C to shut down.
+INFO  08:31:21 Hosting environment: Development
+INFO  08:31:21 Hosting environment: Development
+INFO  08:31:21 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  08:31:21 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  08:33:32 Application started. Press Ctrl+C to shut down.
+INFO  08:33:32 Application started. Press Ctrl+C to shut down.
+INFO  08:33:32 Hosting environment: Development
+INFO  08:33:32 Hosting environment: Development
+INFO  08:33:32 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  08:33:32 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  08:35:43 Application started. Press Ctrl+C to shut down.
+INFO  08:35:43 Application started. Press Ctrl+C to shut down.
+INFO  08:35:43 Hosting environment: Development
+INFO  08:35:43 Hosting environment: Development
+INFO  08:35:43 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  08:35:43 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  08:37:20 Application started. Press Ctrl+C to shut down.
+INFO  08:37:20 Application started. Press Ctrl+C to shut down.
+INFO  08:37:20 Hosting environment: Development
+INFO  08:37:20 Hosting environment: Development
+INFO  08:37:20 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  08:37:20 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  08:41:05 Application started. Press Ctrl+C to shut down.
+INFO  08:41:05 Application started. Press Ctrl+C to shut down.
+INFO  08:41:05 Hosting environment: Development
+INFO  08:41:05 Hosting environment: Development
+INFO  08:41:05 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  08:41:05 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  08:44:12 Application started. Press Ctrl+C to shut down.
+INFO  08:44:12 Application started. Press Ctrl+C to shut down.
+INFO  08:44:12 Hosting environment: Development
+INFO  08:44:12 Hosting environment: Development
+INFO  08:44:12 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  08:44:12 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  08:48:14 Application started. Press Ctrl+C to shut down.
+INFO  08:48:14 Application started. Press Ctrl+C to shut down.
+INFO  08:48:14 Hosting environment: Development
+INFO  08:48:14 Hosting environment: Development
+INFO  08:48:14 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  08:48:14 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  08:48:33 String[] {yes, yes, yes, yes, no}
+INFO  08:54:25 Application started. Press Ctrl+C to shut down.
+INFO  08:54:25 Application started. Press Ctrl+C to shut down.
+INFO  08:54:25 Hosting environment: Development
+INFO  08:54:25 Hosting environment: Development
+INFO  08:54:25 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  08:54:25 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  08:54:35 String[] {yes, yes, yes, yes, no}
+INFO  09:01:28 Application started. Press Ctrl+C to shut down.
+INFO  09:01:28 Application started. Press Ctrl+C to shut down.
+INFO  09:01:28 Hosting environment: Development
+INFO  09:01:28 Hosting environment: Development
+INFO  09:01:28 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  09:01:28 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  09:01:41 String[] {yes, yes, yes, yes, no}
+INFO  09:02:10 Application started. Press Ctrl+C to shut down.
+INFO  09:02:10 Application started. Press Ctrl+C to shut down.
+INFO  09:02:10 Hosting environment: Development
+INFO  09:02:10 Hosting environment: Development
+INFO  09:02:10 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  09:02:10 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  09:02:39 String[] {yes, yes}
+INFO  09:03:06 Application started. Press Ctrl+C to shut down.
+INFO  09:03:06 Application started. Press Ctrl+C to shut down.
+INFO  09:03:06 Hosting environment: Development
+INFO  09:03:06 Hosting environment: Development
+INFO  09:03:06 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  09:03:06 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  09:03:45 String[] {yes, yes}
+INFO  09:04:39 Application started. Press Ctrl+C to shut down.
+INFO  09:04:39 Application started. Press Ctrl+C to shut down.
+INFO  09:04:39 Hosting environment: Development
+INFO  09:04:39 Hosting environment: Development
+INFO  09:04:39 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  09:04:39 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  09:05:35 String[] {yes, yes}
+INFO  09:06:59 Application started. Press Ctrl+C to shut down.
+INFO  09:06:59 Application started. Press Ctrl+C to shut down.
+INFO  09:06:59 Hosting environment: Development
+INFO  09:06:59 Hosting environment: Development
+INFO  09:06:59 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  09:06:59 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  09:07:17 String[] {yes, yes, yes, yes, no}
+INFO  09:13:50 Application started. Press Ctrl+C to shut down.
+INFO  09:13:50 Application started. Press Ctrl+C to shut down.
+INFO  09:13:50 Hosting environment: Development
+INFO  09:13:50 Hosting environment: Development
+INFO  09:13:50 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  09:13:50 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  09:15:04 Application started. Press Ctrl+C to shut down.
+INFO  09:15:04 Application started. Press Ctrl+C to shut down.
+INFO  09:15:04 Hosting environment: Development
+INFO  09:15:04 Hosting environment: Development
+INFO  09:15:04 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  09:15:04 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  09:16:51 Application started. Press Ctrl+C to shut down.
+INFO  09:16:51 Application started. Press Ctrl+C to shut down.
+INFO  09:16:51 Hosting environment: Development
+INFO  09:16:51 Hosting environment: Development
+INFO  09:16:51 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  09:16:51 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  09:17:14 5
+INFO  09:17:21 Bechmark api is called
+INFO  09:19:51 Audit Response calculation successful
+INFO  09:22:53 Application started. Press Ctrl+C to shut down.
+INFO  09:22:53 Application started. Press Ctrl+C to shut down.
+INFO  09:22:54 Hosting environment: Development
+INFO  09:22:54 Hosting environment: Development
+INFO  09:22:54 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  09:22:54 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  09:24:32 Application started. Press Ctrl+C to shut down.
+INFO  09:24:32 Application started. Press Ctrl+C to shut down.
+INFO  09:24:32 Hosting environment: Development
+INFO  09:24:32 Hosting environment: Development
+INFO  09:24:32 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  09:24:32 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  09:25:02 15
+INFO  09:25:02 Bechmark api is called
+INFO  09:25:04 Audit Response calculation successful
+INFO  09:37:17 15
+INFO  09:37:17 Project Execution status invoked
+DEBUG 09:37:17 Existing audit response is read
+INFO  09:37:17 Bechmark api is called
+DEBUG 09:37:17 Existing audit response is read
+INFO  09:46:42 Application started. Press Ctrl+C to shut down.
+INFO  09:46:42 Application started. Press Ctrl+C to shut down.
+INFO  09:46:42 Hosting environment: Development
+INFO  09:46:42 Hosting environment: Development
+INFO  09:46:42 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  09:46:42 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  09:47:20 Project Execution status invoked
+DEBUG 09:47:20 Existing audit response is read
+INFO  09:47:21 26
+INFO  09:47:21 Bechmark api is called
+ERROR 09:47:22 Object reference not set to an instance of an object.
+INFO  09:47:22 Audit Response calculation successful

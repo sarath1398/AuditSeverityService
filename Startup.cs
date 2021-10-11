@@ -29,11 +29,24 @@ namespace AuditSeverityMicroService
         public void ConfigureServices(IServiceCollection services)
         {
 
+            services.AddCors();
+            services.AddCors(c =>
+            {
+                c.AddPolicy("AllowOrigin", options => options.WithOrigins("http://localhost:4200").AllowAnyMethod()
+                 .AllowAnyHeader().AllowCredentials());
+            });
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "AuditSeverityMicroService", Version = "v1" });
             });
+
+            /*services.AddCors(c =>
+            {
+                c.AddPolicy("AllowOrigin", options => options.AllowAnyOrigin());
+            });*/
+
+
 
             services.AddDbContext<AuditManagementSystemContext>(options =>
                   options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
@@ -48,13 +61,15 @@ namespace AuditSeverityMicroService
                 app.UseSwagger();
                 app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "AuditSeverityMicroService v1"));
             }
-
+            app.UseCors("AllowOrigin");
             loggerFactory.AddLog4Net();
             app.UseHttpsRedirection();
 
             app.UseRouting();
 
             app.UseAuthorization();
+
+            //app.UseCors(options => options.AllowAnyOrigin());
 
             app.UseEndpoints(endpoints =>
             {

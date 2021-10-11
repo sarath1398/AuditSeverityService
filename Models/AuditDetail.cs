@@ -9,6 +9,6 @@ namespace AuditSeverityMicroService.Models
     {
         public string AuditType { get; set; }
         public DateTime AuditDate { get; set; }
-        public List<string> AuditQuestions { get; set; }
+        public string[] ListOfQuestions { get; set; }
     }
 }

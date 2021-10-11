@@ -17,39 +17,30 @@ namespace AuditSeverityMicroService.Controllers
     {
         static readonly log4net.ILog _log4net = log4net.LogManager.GetLogger(typeof(AuditSeverityController));
         //Dictionary<string, int> BenchMarkDict = new() { { "Internal", 3 }, { "SOX", 1 } };
+        AuditRequest auditRequest = new AuditRequest();
+        AuditSeverityService auditSeverityService = new AuditSeverityService();
 
-        [HttpGet]
-        public async Task<ActionResult> ProjectExecutionStatus()//[FromBody] AuditRequest auditRequest)
+        [HttpPost("Auditrequest")]
+        public async Task<ActionResult> Auditrequest([FromBody] AuditRequest request)//string[] request)
         {
-            _log4net.Info("Project Execution status invoked");
-            AuditRequest auditRequest = new AuditRequest()
-            {
-                ProjectId = 15,
-                ProjectName = "Bank",
-                ProjectManagerName = "Divya",
-                ApplicationOwnerName = "Akshaya",
-                auditDetail = new AuditDetail()
-                {
-                    AuditType = "SOX",
-                    AuditDate = DateTime.Parse("09/10/2021"),
-                    AuditQuestions = new List<string>() { "yes", "yes", "yes", "yes", "no" }
-                },
-            };
+            this.auditRequest = request;
+            _log4net.Info(request.ProjectId);
+            List<AuditBenchmarkClass> BenchMark = new List<AuditBenchmarkClass>();
             HttpClientHandler clientHandler = new HttpClientHandler();
             clientHandler.ServerCertificateCustomValidationCallback = (sender, cert, chain, sslPolicyErrors) => { return true; };
-            List<AuditBenchmarkClass> BenchMark = new List<AuditBenchmarkClass>();
+
             using (var client = new HttpClient(clientHandler))
             {
                 client.BaseAddress = new Uri("https://localhost:44354/");
                 client.DefaultRequestHeaders.Accept.Clear();
                 client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
                 //GET Method
-                HttpResponseMessage response = await client.GetAsync("api/AuditBenchmark");
-                if (response.IsSuccessStatusCode)
+                HttpResponseMessage httpresponse = await client.GetAsync("api/AuditBenchmark");
+                if (httpresponse.IsSuccessStatusCode)
                 {
-                    BenchMark = await response.Content.ReadAsAsync<List<AuditBenchmarkClass>>();
+                    BenchMark = await httpresponse.Content.ReadAsAsync<List<AuditBenchmarkClass>>();
                     //Console.WriteLine(BenchMark.Count);
-                    _log4net.Info(BenchMark.Count);
+                    _log4net.Info("Bechmark api is called");
                 }
                 else
                 {
@@ -57,6 +48,30 @@ namespace AuditSeverityMicroService.Controllers
 
                 }
             }
+
+            int NoCount = auditRequest.auditDetail.ListOfQuestions.Select(x => x).Where(x => x == "no").Count();
+            AuditResponse auditResponse = new AuditResponse();
+            
+            auditResponse.AuditId = auditSeverityService.GenerateAuditId();
+            List<string> response = auditSeverityService.AuditResponseCalculation(NoCount, auditRequest.auditDetail.AuditType, BenchMark);
+            auditResponse.ProjectExecutionStatus = response[0];
+            auditResponse.RemedialActionDuration = response[1];
+            if (auditSeverityService.GetProjectIdCount(auditRequest.ProjectId) == 0)//CreateRepo(auditRequest, auditResponse, auditRequest.ProjectId))
+            {
+                auditSeverityService.CreateRepo(auditRequest, auditResponse, auditRequest.ProjectId);
+                _log4net.Info("Audit Response calculation successful");
+                return Ok(auditResponse);
+            }
+            else
+            _log4net.Debug("Existing audit response is read");
+            return Ok(auditSeverityService.ReadAuditResponse());//auditRequest.ProjectId));
+            //return Ok(request);
+        }
+
+        [HttpGet("ProjectAuditresult")]
+        public async Task<ActionResult> ProjectExecutionStatus()//[FromBody] AuditRequest auditRequest)
+        {
+            _log4net.Info("Project Execution status invoked");
             try
             {
                 if (!ModelState.IsValid)
@@ -66,23 +81,8 @@ namespace AuditSeverityMicroService.Controllers
                 }
                 else
                 {
-                    int NoCount = auditRequest.auditDetail.AuditQuestions.Select(x => x).Where(x => x == "no").Count();
-                    AuditResponse auditResponse = new AuditResponse();
-                    AuditSeverityService auditSeverityService = new AuditSeverityService();
-                    auditResponse.AuditId = auditSeverityService.GenerateAuditId();
-                    List<string> response = auditSeverityService.AuditResponseCalculation(NoCount, auditRequest.auditDetail.AuditType, BenchMark);
-                    auditResponse.ProjectExecutionStatus = response[0];
-                    auditResponse.RemedialActionDuration = response[1];
-                    if (await auditSeverityService.UpdateRepo(auditRequest, auditResponse, auditRequest.ProjectId))
-                    {
-                        _log4net.Info("Audit Response calculation successful");
-                        return Ok(auditResponse);
-                    }
-                    else
-                    {
-                        _log4net.Debug("Error occureed while updating database");
-                        return StatusCode(404);
-                    }
+                    _log4net.Debug("Existing audit response is read");
+                    return Ok(auditSeverityService.ReadAuditResponse());//auditRequest.ProjectId));
                 }
 
 
@@ -93,5 +93,6 @@ namespace AuditSeverityMicroService.Controllers
                 return new ObjectResult(e.Message) { StatusCode = 500 };
             }
         }
+        
     }
 }

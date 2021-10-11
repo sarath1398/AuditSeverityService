@@ -7,7 +7,7 @@ using AuditSeverityMicroService.RepositoryLayer;
 
 namespace AuditSeverityMicroService.ServiceLayer
 {
-    public class AuditSeverityService
+    public class AuditSeverityService:IAuditSeverityService
     {
         public string GenerateAuditId()
         {
@@ -51,10 +51,24 @@ namespace AuditSeverityMicroService.ServiceLayer
             auditResponse.Add(RemedialActionDuration);
             return auditResponse;
         }
-        public async Task<bool> UpdateRepo(AuditRequest auditRequest, AuditResponse auditResponse, int projectId)
+        AuditSeverityRepo repo = new AuditSeverityRepo();
+        public void CreateRepo(AuditRequest auditRequest, AuditResponse auditResponse, int projectId)
         {
-            AuditSeverityRepo repo = new AuditSeverityRepo();
-            return await repo.UpdateAuditResponse(auditRequest, auditResponse, projectId);
+            repo.CreateAuditResponse(auditRequest, auditResponse, projectId);
+        }
+        public int GetProjectIdCount(int projectId)
+        {
+            return repo.GetProjectCount(projectId);
+        }
+        public AuditResponse ReadAuditResponse()//int projectId)
+        {
+            AuditManagement manager = new AuditManagement();
+            manager = repo.ReadAuditManagement();//projectId);
+            AuditResponse response = new AuditResponse();
+            response.AuditId = manager.AuditId;
+            response.ProjectExecutionStatus = manager.ProjectExecutionStatus;
+            response.RemedialActionDuration = manager.RemedialActionDuration;
+            return response;
         }
     }
 }
