@@ -8,8 +8,8 @@ namespace AuditSeverityMicroService.RepositoryLayer
 {
     interface IAuditSeverityRepo
     {
-        public void CreateAuditResponse(AuditRequest auditRequest, AuditResponse auditResponse, int projectId);
-        public int GetProjectCount(int projectId);
-        public AuditManagement ReadAuditManagement();//int projectId);
+        public bool CreateAuditResponse(AuditRequest auditRequest, AuditResponse auditResponse, int projectId);
+        public AuditManagement ReadAuditManagement(int projectId);
+        public int ReadProjectId(string managerName);
     }
 }

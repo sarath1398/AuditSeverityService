@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+
 using System.Threading.Tasks;
 using AuditSeverityMicroService.Models;
 namespace AuditSeverityMicroService.RepositoryLayer
@@ -8,6 +9,7 @@ namespace AuditSeverityMicroService.RepositoryLayer
     public class AuditSeverityRepo:IAuditSeverityRepo
     {
         AuditManagementSystemContext context;
+        
         public AuditSeverityRepo()
         {
 
@@ -16,20 +18,13 @@ namespace AuditSeverityMicroService.RepositoryLayer
         {
             context = _context;
         }
-        public int GetProjectCount(int projectId)
-        {
-            using (context = new AuditManagementSystemContext())
-            {
-                int cnt = context.AuditManagements.Where(a => a.ProjectId == projectId).Count();
-                return cnt;
-            }
-        }
-        public void  CreateAuditResponse(AuditRequest auditRequest, AuditResponse auditResponse, int projectId)
+        
+        public virtual bool  CreateAuditResponse(AuditRequest auditRequest, AuditResponse auditResponse, int projectId)
         {
             using (context = new AuditManagementSystemContext())
             {
                 AuditManagement manager = new AuditManagement();
-                manager.ProjectId = auditRequest.ProjectId;
+                manager.ProjectId = projectId;
                 manager.ProjectManagerName = auditRequest.ProjectManagerName;
                 manager.ProjectName = auditRequest.ProjectName;
                 manager.ApplicationOwnerName = auditRequest.ApplicationOwnerName;
@@ -40,15 +35,23 @@ namespace AuditSeverityMicroService.RepositoryLayer
                 manager.RemedialActionDuration = auditResponse.RemedialActionDuration;
                 context.AuditManagements.Add(manager);
                 context.SaveChanges();
+                return true;
             }
         }
-        public AuditManagement ReadAuditManagement()//int projectId)
+        public virtual AuditManagement ReadAuditManagement(int projectId)
         {
             using (context = new AuditManagementSystemContext())
             {
-                return context.AuditManagements.ToList()[context.AuditManagements.ToList().Count-1];//context.AuditManagements.Where(a => a.ProjectId == projectId).FirstOrDefault();
+                return context.AuditManagements.Where(a => a.ProjectId == projectId).OrderByDescending(a=>a.ManagementId).FirstOrDefault();
             }
         }
 
+        public virtual int ReadProjectId(string managerName)
+        {
+            using (context = new AuditManagementSystemContext())
+            {
+                return context.Logindetails.Where(a => a.UserName == managerName).FirstOrDefault().ProjectId;
+            }
+        }
     }
 }

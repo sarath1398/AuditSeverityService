@@ -64,3 +64,4 @@ F:\MFPE\AuditSeverityMicroService\bin\Debug\net5.0\log4net.dll
 F:\MFPE\AuditSeverityMicroService\bin\Debug\net5.0\System.Net.Http.Formatting.dll
 F:\MFPE\AuditSeverityMicroService\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
 F:\MFPE\AuditSeverityMicroService\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+F:\MFPE\AuditSeverityMicroService\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

@@ -7,7 +7,7 @@ namespace AuditSeverityMicroService.Models
 {
     public class AuditRequest
     {
-        public int ProjectId { get; set; }
+        //public int ProjectId { get; set; }
         public string ProjectName { get; set; }
         public string ProjectManagerName { get; set; }
         public string ApplicationOwnerName { get; set; }

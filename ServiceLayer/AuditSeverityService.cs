@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net.Http;
+using System.Net.Http.Headers;
 using System.Threading.Tasks;
 using AuditSeverityMicroService.Models;
 using AuditSeverityMicroService.RepositoryLayer;
@@ -9,6 +11,16 @@ namespace AuditSeverityMicroService.ServiceLayer
 {
     public class AuditSeverityService:IAuditSeverityService
     {
+        
+        AuditSeverityRepo repo;
+        public AuditSeverityService()
+        {
+            this.repo = new AuditSeverityRepo();
+        }
+        public AuditSeverityService(AuditSeverityRepo Repo)
+        {
+            this.repo = Repo;
+        }
         public string GenerateAuditId()
         {
             string auditId = "";
@@ -51,24 +63,71 @@ namespace AuditSeverityMicroService.ServiceLayer
             auditResponse.Add(RemedialActionDuration);
             return auditResponse;
         }
-        AuditSeverityRepo repo = new AuditSeverityRepo();
+        
         public void CreateRepo(AuditRequest auditRequest, AuditResponse auditResponse, int projectId)
         {
-            repo.CreateAuditResponse(auditRequest, auditResponse, projectId);
+            bool result=repo.CreateAuditResponse(auditRequest, auditResponse, projectId);
         }
-        public int GetProjectIdCount(int projectId)
+        /*public int GetProjectIdCount(int projectId)
         {
             return repo.GetProjectCount(projectId);
-        }
-        public AuditResponse ReadAuditResponse()//int projectId)
+        }*/
+        public AuditResponse ReadAuditResponse(int projectId)
         {
             AuditManagement manager = new AuditManagement();
-            manager = repo.ReadAuditManagement();//projectId);
+            manager = repo.ReadAuditManagement(projectId);
             AuditResponse response = new AuditResponse();
             response.AuditId = manager.AuditId;
             response.ProjectExecutionStatus = manager.ProjectExecutionStatus;
             response.RemedialActionDuration = manager.RemedialActionDuration;
             return response;
         }
+        public int GetProjectId(string managerName)
+        {
+            return repo.ReadProjectId(managerName);
+        }
+        public virtual async Task<List<AuditBenchmarkClass>> ReadBenchmark()
+        {
+            List<AuditBenchmarkClass> BenchMark = new List<AuditBenchmarkClass>();
+            HttpClientHandler clientHandler = new HttpClientHandler();
+            clientHandler.ServerCertificateCustomValidationCallback = (sender, cert, chain, sslPolicyErrors) => { return true; };
+
+            using (var client = new HttpClient(clientHandler))
+            {
+                client.BaseAddress = new Uri("https://localhost:44354/");
+                client.DefaultRequestHeaders.Accept.Clear();
+                client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
+                //GET Method
+                
+                try 
+                {
+                    HttpResponseMessage httpresponse = await client.GetAsync("api/AuditBenchmark");
+                    if (httpresponse.IsSuccessStatusCode)
+                    {
+                        BenchMark = await httpresponse.Content.ReadAsAsync<List<AuditBenchmarkClass>>();
+                        return BenchMark;
+                    }
+                    else
+                    {
+                        return null;
+                    }
+
+                }
+                catch(Exception e)
+                {
+                    return null;
+                }
+
+                /*if (httpresponse.IsSuccessStatusCode)
+                {
+                    BenchMark = await httpresponse.Content.ReadAsAsync<List<AuditBenchmarkClass>>();
+                    return BenchMark;
+                }
+                else
+                {
+                    return null;
+                }*/
+            }
+        }    
     }
 }

@@ -35,40 +35,45 @@ namespace AuditSeverityMicroService.RepositoryLayer
 
             modelBuilder.Entity<AuditManagement>(entity =>
             {
-                entity.HasKey(e => e.ProjectId)
-                    .HasName("PK__AuditMan__761ABEF060897DA1");
+                entity.HasKey(e => e.ManagementId)
+                    .HasName("PK__AuditMan__D21F1B36FBBC05D5");
 
                 entity.ToTable("AuditManagement");
 
-                entity.Property(e => e.ProjectId).ValueGeneratedNever();
-
                 entity.Property(e => e.ApplicationOwnerName)
+                    .IsRequired()
                     .HasMaxLength(50)
                     .IsUnicode(false);
 
                 entity.Property(e => e.AuditDate).HasColumnType("date");
 
                 entity.Property(e => e.AuditId)
+                    .IsRequired()
                     .HasMaxLength(10)
                     .IsUnicode(false);
 
                 entity.Property(e => e.AuditType)
+                    .IsRequired()
                     .HasMaxLength(10)
                     .IsUnicode(false);
 
                 entity.Property(e => e.ProjectExecutionStatus)
+                    .IsRequired()
                     .HasMaxLength(10)
                     .IsUnicode(false);
 
                 entity.Property(e => e.ProjectManagerName)
+                    .IsRequired()
                     .HasMaxLength(50)
                     .IsUnicode(false);
 
                 entity.Property(e => e.ProjectName)
+                    .IsRequired()
                     .HasMaxLength(50)
                     .IsUnicode(false);
 
                 entity.Property(e => e.RemedialActionDuration)
+                    .IsRequired()
                     .HasMaxLength(50)
                     .IsUnicode(false);
             });
