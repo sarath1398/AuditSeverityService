@@ -33,31 +33,20 @@ namespace AuditSeverityMicroService.ServiceLayer
             string AuditResult;
             string RemedialActionDuration;
             List<string> auditResponse = new List<string>();
-            if (AuditType == "Internal")
+            if (AuditType == "Internal" && NoCount > benchMarkList[0].BenchmarkNoAnswers)
             {
-                if (NoCount > benchMarkList[0].BenchmarkNoAnswers)
-                {
-                    AuditResult = "RED";
-                    RemedialActionDuration = "Action to be taken in 2 weeks";
-                }
-                else
-                {
-                    AuditResult = "GREEN";
-                    RemedialActionDuration = "No action needed";
-                }
+                AuditResult = "RED";
+                RemedialActionDuration = "Action to be taken in 2 weeks";
+            }
+            else if(AuditType=="SOX" && NoCount > benchMarkList[1].BenchmarkNoAnswers)
+            {
+                AuditResult = "RED";
+                RemedialActionDuration = "Action to be taken in 1 week";
             }
             else
             {
-                if (NoCount > benchMarkList[1].BenchmarkNoAnswers)
-                {
-                    AuditResult = "RED";
-                    RemedialActionDuration = "Action to be taken in 1 week";
-                }
-                else
-                {
-                    AuditResult = "GREEN";
-                    RemedialActionDuration = "No action needed";
-                }
+                AuditResult = "GREEN";
+                RemedialActionDuration = "No action needed";
             }
             auditResponse.Add(AuditResult);
             auditResponse.Add(RemedialActionDuration);
@@ -68,10 +57,7 @@ namespace AuditSeverityMicroService.ServiceLayer
         {
             bool result=repo.CreateAuditResponse(auditRequest, auditResponse, projectId);
         }
-        /*public int GetProjectIdCount(int projectId)
-        {
-            return repo.GetProjectCount(projectId);
-        }*/
+        
         public AuditResponse ReadAuditResponse(int projectId)
         {
             AuditManagement manager = new AuditManagement();
@@ -86,7 +72,7 @@ namespace AuditSeverityMicroService.ServiceLayer
         {
             return repo.ReadProjectId(managerName);
         }
-        public virtual async Task<List<AuditBenchmarkClass>> ReadBenchmark()
+        public virtual async Task<List<AuditBenchmarkClass>> ReadBenchmark(string benchmarkUrl)
         {
             List<AuditBenchmarkClass> BenchMark = new List<AuditBenchmarkClass>();
             HttpClientHandler clientHandler = new HttpClientHandler();
@@ -94,12 +80,10 @@ namespace AuditSeverityMicroService.ServiceLayer
 
             using (var client = new HttpClient(clientHandler))
             {
-                client.BaseAddress = new Uri("https://localhost:44354/");
+                client.BaseAddress = new Uri(benchmarkUrl);
                 client.DefaultRequestHeaders.Accept.Clear();
                 client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
-                //GET Method
-                
-                try 
+                try
                 {
                     HttpResponseMessage httpresponse = await client.GetAsync("api/AuditBenchmark");
                     if (httpresponse.IsSuccessStatusCode)
@@ -113,20 +97,10 @@ namespace AuditSeverityMicroService.ServiceLayer
                     }
 
                 }
-                catch(Exception e)
+                catch (Exception)
                 {
                     return null;
                 }
-
-                /*if (httpresponse.IsSuccessStatusCode)
-                {
-                    BenchMark = await httpresponse.Content.ReadAsAsync<List<AuditBenchmarkClass>>();
-                    return BenchMark;
-                }
-                else
-                {
-                    return null;
-                }*/
             }
         }    
     }

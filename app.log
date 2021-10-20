@@ -2351,3 +2351,319 @@ INFO  08:58:13 Hosting environment: Development
 INFO  08:58:13 Hosting environment: Development
 INFO  08:58:13 Content root path: F:\MFPE\AuditSeverityMicroService
 INFO  08:58:13 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  11:06:37 Application started. Press Ctrl+C to shut down.
+INFO  11:06:38 Application started. Press Ctrl+C to shut down.
+INFO  11:06:38 Hosting environment: Development
+INFO  11:06:38 Hosting environment: Development
+INFO  11:06:38 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  11:06:38 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  11:12:16 In AuditSeverityController
+INFO  11:12:16 admin
+INFO  11:12:20 Benchmark api data is sucessfully read
+INFO  11:12:27 Audit Response calculation successful
+INFO  11:13:29 In AuditSeverityController
+INFO  11:13:29 admin
+INFO  11:13:29 Benchmark api data is sucessfully read
+INFO  11:13:31 Audit Response calculation successful
+INFO  11:22:39 In AuditSeverityController
+INFO  11:22:39 admin
+INFO  11:22:39 Benchmark api data is sucessfully read
+INFO  11:22:40 Audit Response calculation successful
+INFO  11:23:05 In AuditSeverityController
+INFO  11:23:05 admin
+INFO  11:23:05 Benchmark api data is sucessfully read
+INFO  11:23:05 Audit Response calculation successful
+INFO  11:23:14 In AuditSeverityController
+INFO  11:23:14 admin
+INFO  11:23:14 Benchmark api data is sucessfully read
+INFO  11:23:14 Audit Response calculation successful
+INFO  11:23:20 In AuditSeverityController
+INFO  11:23:20 admin
+INFO  11:23:20 Benchmark api data is sucessfully read
+INFO  11:23:20 Audit Response calculation successful
+INFO  11:43:31 Application started. Press Ctrl+C to shut down.
+INFO  11:43:31 Application started. Press Ctrl+C to shut down.
+INFO  11:43:31 Hosting environment: Development
+INFO  11:43:31 Hosting environment: Development
+INFO  11:43:31 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  11:43:31 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  12:31:44 In AuditSeverityController
+INFO  12:31:44 admin
+INFO  12:31:47 Benchmark api data is sucessfully read
+INFO  12:31:52 Audit Response calculation successful
+INFO  01:24:57 Application started. Press Ctrl+C to shut down.
+INFO  01:24:57 Application started. Press Ctrl+C to shut down.
+INFO  01:24:57 Hosting environment: Development
+INFO  01:24:57 Hosting environment: Development
+INFO  01:24:57 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  01:24:57 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  01:28:11 In AuditSeverityController
+INFO  01:28:11 admin
+INFO  01:28:12 Benchmark api data is sucessfully read
+INFO  01:28:15 Audit Response calculation successful
+INFO  02:39:45 In AuditSeverityController
+INFO  02:39:45 admin
+INFO  02:39:45 Benchmark api data is sucessfully read
+INFO  02:39:45 Audit Response calculation successful
+INFO  02:53:38 In AuditSeverityController
+INFO  02:53:38 admin
+INFO  02:53:38 Benchmark api data is sucessfully read
+INFO  02:53:38 Audit Response calculation successful
+INFO  02:53:40 In AuditSeverityController
+INFO  02:53:40 admin
+INFO  02:53:41 Benchmark api data is sucessfully read
+INFO  02:53:41 Audit Response calculation successful
+INFO  02:55:49 In AuditSeverityController
+INFO  02:55:49 admin
+INFO  02:55:49 Benchmark api data is sucessfully read
+INFO  02:55:49 Audit Response calculation successful
+INFO  02:57:12 In AuditSeverityController
+INFO  02:57:12 admin
+INFO  02:57:13 Benchmark api data is sucessfully read
+INFO  02:57:13 Audit Response calculation successful
+INFO  04:52:38 In AuditSeverityController
+INFO  04:52:38 admin
+INFO  04:52:39 Benchmark api data is sucessfully read
+INFO  04:52:39 Audit Response calculation successful
+INFO  05:14:18 In AuditSeverityController
+INFO  05:14:18 admin
+INFO  05:14:18 Benchmark api data is sucessfully read
+INFO  05:14:18 Audit Response calculation successful
+INFO  05:16:55 In AuditSeverityController
+INFO  05:16:55 admin
+INFO  05:16:55 Benchmark api data is sucessfully read
+INFO  05:16:55 Audit Response calculation successful
+INFO  05:17:51 In AuditSeverityController
+INFO  05:17:51 admin
+INFO  05:17:52 Benchmark api data is sucessfully read
+INFO  05:17:52 Audit Response calculation successful
+INFO  05:24:11 In AuditSeverityController
+INFO  05:24:11 admin
+INFO  05:24:11 Benchmark api data is sucessfully read
+INFO  05:24:11 Audit Response calculation successful
+INFO  05:49:11 In AuditSeverityController
+INFO  05:49:11 admin
+INFO  05:49:12 Benchmark api data is sucessfully read
+INFO  05:49:12 Audit Response calculation successful
+INFO  06:08:01 In AuditSeverityController
+INFO  06:08:01 admin
+INFO  06:08:02 Benchmark api data is sucessfully read
+INFO  06:08:02 Audit Response calculation successful
+INFO  06:11:47 In AuditSeverityController
+INFO  06:11:47 admin
+INFO  06:11:47 Benchmark api data is sucessfully read
+INFO  06:11:47 Audit Response calculation successful
+INFO  06:14:20 In AuditSeverityController
+INFO  06:14:20 admin
+INFO  06:14:20 Benchmark api data is sucessfully read
+INFO  06:14:20 Audit Response calculation successful
+INFO  06:17:05 In AuditSeverityController
+INFO  06:17:05 admin
+INFO  06:17:06 Benchmark api data is sucessfully read
+INFO  06:17:06 Audit Response calculation successful
+INFO  06:20:32 In AuditSeverityController
+INFO  06:20:32 admin
+INFO  06:20:32 Benchmark api data is sucessfully read
+INFO  06:20:32 Audit Response calculation successful
+INFO  06:26:56 In AuditSeverityController
+INFO  06:26:56 admin
+INFO  06:26:56 Benchmark api data is sucessfully read
+INFO  06:26:56 Audit Response calculation successful
+INFO  06:30:18 In AuditSeverityController
+INFO  06:30:18 admin
+INFO  06:30:18 Benchmark api data is sucessfully read
+INFO  06:30:18 Audit Response calculation successful
+INFO  06:32:44 In AuditSeverityController
+INFO  06:32:44 admin
+INFO  06:32:44 Benchmark api data is sucessfully read
+INFO  06:32:44 Audit Response calculation successful
+INFO  06:33:32 In AuditSeverityController
+INFO  06:33:32 admin
+INFO  06:33:32 Benchmark api data is sucessfully read
+INFO  06:33:32 Audit Response calculation successful
+INFO  06:34:28 In AuditSeverityController
+INFO  06:34:28 John
+INFO  06:34:28 Benchmark api data is sucessfully read
+INFO  06:34:28 Audit Response calculation successful
+INFO  06:35:31 In AuditSeverityController
+INFO  06:35:31 admin
+INFO  06:35:31 Benchmark api data is sucessfully read
+INFO  06:35:31 Audit Response calculation successful
+INFO  06:54:43 In AuditSeverityController
+INFO  06:54:43 admin
+INFO  06:54:43 Benchmark api data is sucessfully read
+INFO  06:54:44 Audit Response calculation successful
+INFO  06:57:46 In AuditSeverityController
+INFO  06:57:46 admin
+INFO  06:57:47 Benchmark api data is sucessfully read
+INFO  06:57:47 Audit Response calculation successful
+INFO  06:58:53 In AuditSeverityController
+INFO  06:58:53 admin
+INFO  06:58:53 Benchmark api data is sucessfully read
+INFO  06:58:53 Audit Response calculation successful
+INFO  07:06:10 In AuditSeverityController
+INFO  07:06:10 admin
+INFO  07:06:10 Benchmark api data is sucessfully read
+INFO  07:06:10 Audit Response calculation successful
+INFO  07:21:10 In AuditSeverityController
+INFO  07:21:10 admin
+INFO  07:21:10 Benchmark api data is sucessfully read
+INFO  07:21:10 Audit Response calculation successful
+INFO  07:58:11 In AuditSeverityController
+INFO  07:58:11 admin
+INFO  07:58:12 Benchmark api data is sucessfully read
+INFO  07:58:12 Audit Response calculation successful
+INFO  08:58:29 In AuditSeverityController
+INFO  08:58:29 admin
+INFO  08:58:29 Benchmark api data is sucessfully read
+INFO  08:58:29 Audit Response calculation successful
+INFO  09:13:51 In AuditSeverityController
+INFO  09:13:51 admin
+INFO  09:13:51 Benchmark api data is sucessfully read
+INFO  09:13:52 Audit Response calculation successful
+INFO  09:55:00 In AuditSeverityController
+INFO  09:55:00 admin
+INFO  09:55:01 Benchmark api data is sucessfully read
+INFO  09:55:01 Audit Response calculation successful
+INFO  11:08:35 In AuditSeverityController
+INFO  11:08:35 admin
+INFO  11:08:35 Benchmark api data is sucessfully read
+INFO  11:08:35 Audit Response calculation successful
+INFO  10:26:15 Application started. Press Ctrl+C to shut down.
+INFO  10:26:16 Application started. Press Ctrl+C to shut down.
+INFO  10:26:16 Hosting environment: Development
+INFO  10:26:16 Hosting environment: Development
+INFO  10:26:16 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  10:26:16 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  11:53:40 In AuditSeverityController
+INFO  11:53:40 admin
+INFO  11:53:43 In AuditSeverityController
+INFO  11:53:43 admin
+INFO  11:53:43 Benchmark api data is sucessfully read
+INFO  11:53:43 Benchmark api data is sucessfully read
+INFO  11:53:47 Audit Response calculation successful
+INFO  11:53:47 Audit Response calculation successful
+INFO  11:54:56 In AuditSeverityController
+INFO  11:54:56 admin
+INFO  11:54:56 Benchmark api data is sucessfully read
+INFO  11:54:56 Audit Response calculation successful
+INFO  01:56:34 Application started. Press Ctrl+C to shut down.
+INFO  01:56:34 Application started. Press Ctrl+C to shut down.
+INFO  01:56:34 Hosting environment: Development
+INFO  01:56:34 Hosting environment: Development
+INFO  01:56:34 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  01:56:34 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  01:58:07 In AuditSeverityController
+INFO  01:58:07 admin
+INFO  01:58:09 Benchmark api data is sucessfully read
+INFO  01:58:19 Audit Response calculation successful
+INFO  09:22:33 Application started. Press Ctrl+C to shut down.
+INFO  09:22:33 Application started. Press Ctrl+C to shut down.
+INFO  09:22:33 Hosting environment: Development
+INFO  09:22:33 Hosting environment: Development
+INFO  09:22:33 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  09:22:33 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  09:24:18 In AuditSeverityController
+INFO  09:24:18 admin
+INFO  09:24:21 Benchmark api data is sucessfully read
+INFO  09:24:23 Audit Response calculation successful
+INFO  09:24:39 In AuditSeverityController
+INFO  09:24:39 admin
+INFO  09:24:40 Benchmark api data is sucessfully read
+INFO  09:24:40 Audit Response calculation successful
+INFO  09:24:48 In AuditSeverityController
+INFO  09:24:48 admin
+INFO  09:24:48 Benchmark api data is sucessfully read
+INFO  09:24:48 Audit Response calculation successful
+INFO  09:25:02 In AuditSeverityController
+INFO  09:25:02 admin
+INFO  09:25:02 Benchmark api data is sucessfully read
+INFO  09:25:02 Audit Response calculation successful
+INFO  09:36:00 Application started. Press Ctrl+C to shut down.
+INFO  09:36:00 Application started. Press Ctrl+C to shut down.
+INFO  09:36:00 Hosting environment: Development
+INFO  09:36:00 Hosting environment: Development
+INFO  09:36:00 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  09:36:00 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  09:36:17 In AuditSeverityController
+INFO  09:36:17 admin
+INFO  09:36:17 Benchmark api data is sucessfully read
+INFO  09:36:19 Audit Response calculation successful
+INFO  09:37:08 In AuditSeverityController
+INFO  09:37:08 admin
+INFO  09:37:08 Benchmark api data is sucessfully read
+INFO  09:37:08 Audit Response calculation successful
+INFO  10:03:00 Application started. Press Ctrl+C to shut down.
+INFO  10:03:00 Application started. Press Ctrl+C to shut down.
+INFO  10:03:00 Hosting environment: Development
+INFO  10:03:00 Hosting environment: Development
+INFO  10:03:00 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  10:03:00 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  11:03:25 In AuditSeverityController
+INFO  11:03:25 admin
+INFO  11:03:27 Benchmark api data is sucessfully read
+INFO  11:03:32 Audit Response calculation successful
+INFO  11:04:42 In AuditSeverityController
+INFO  11:04:42 admin
+INFO  11:04:42 Benchmark api data is sucessfully read
+INFO  11:04:42 Audit Response calculation successful
+INFO  11:06:08 In AuditSeverityController
+INFO  11:06:08 admin
+INFO  11:06:08 Benchmark api data is sucessfully read
+INFO  11:06:08 Audit Response calculation successful
+INFO  11:06:54 In AuditSeverityController
+INFO  11:06:54 admin
+INFO  11:06:54 Benchmark api data is sucessfully read
+INFO  11:06:54 Audit Response calculation successful
+INFO  11:07:26 In AuditSeverityController
+INFO  11:07:26 admin
+INFO  11:07:26 Benchmark api data is sucessfully read
+INFO  11:07:26 Audit Response calculation successful
+INFO  11:14:28 In AuditSeverityController
+INFO  11:14:28 admin
+INFO  11:14:28 Benchmark api data is sucessfully read
+INFO  11:14:28 Audit Response calculation successful
+INFO  11:16:09 In AuditSeverityController
+INFO  11:16:09 admin
+INFO  11:16:09 Benchmark api data is sucessfully read
+INFO  11:16:09 Audit Response calculation successful
+INFO  11:19:00 In AuditSeverityController
+INFO  11:19:00 admin
+INFO  11:19:01 Benchmark api data is sucessfully read
+INFO  11:19:01 Audit Response calculation successful
+INFO  11:19:31 In AuditSeverityController
+INFO  11:19:31 admin
+INFO  11:19:31 Benchmark api data is sucessfully read
+INFO  11:19:31 Audit Response calculation successful
+INFO  11:20:21 In AuditSeverityController
+INFO  11:20:21 admin
+INFO  11:20:21 Benchmark api data is sucessfully read
+INFO  11:20:21 Audit Response calculation successful
+INFO  11:20:37 In AuditSeverityController
+INFO  11:20:37 admin
+INFO  11:20:37 Benchmark api data is sucessfully read
+INFO  11:20:38 Audit Response calculation successful
+INFO  10:02:01 Application started. Press Ctrl+C to shut down.
+INFO  10:02:01 Application started. Press Ctrl+C to shut down.
+INFO  10:02:01 Hosting environment: Development
+INFO  10:02:01 Hosting environment: Development
+INFO  10:02:01 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  10:02:01 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  10:06:25 In AuditSeverityController
+INFO  10:06:25 admin
+INFO  10:06:27 Benchmark api data is sucessfully read
+INFO  10:06:29 Audit Response calculation successful
+INFO  10:08:15 Application started. Press Ctrl+C to shut down.
+INFO  10:08:15 Application started. Press Ctrl+C to shut down.
+INFO  10:08:15 Hosting environment: Development
+INFO  10:08:15 Hosting environment: Development
+INFO  10:08:15 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  10:08:15 Content root path: F:\MFPE\AuditSeverityMicroService
+INFO  10:08:22 In AuditSeverityController
+INFO  10:08:22 admin
+INFO  10:08:23 Benchmark api data is sucessfully read
+INFO  10:08:25 Audit Response calculation successful
+INFO  10:54:59 In AuditSeverityController
+INFO  10:54:59 John
+INFO  10:55:00 Benchmark api data is sucessfully read
+INFO  10:55:00 Audit Response calculation successful
